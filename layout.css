@@ -18,10 +18,10 @@ body {
 }
 
 #container div {
+    width: 50px;
     height: 100px;
     text-align: center;
     font-size: 4em;
-    padding: 15px;
     color: #fff;
 
 
