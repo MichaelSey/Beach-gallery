@@ -7,7 +7,7 @@ body {
 
 
 #container {
-    width: 90%;
+    width: 95%;
     height: 500px;
     margin: 0 auto;
     border: 5px solid #003049;
@@ -18,7 +18,7 @@ body {
 }
 
 #container div {
-    width: 90%;
+    width: 100px;
     height: 100px;
     text-align: center;
     font-size: 4em;
