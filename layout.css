@@ -8,7 +8,7 @@ body {
 
 #container {
     width: 90%;
-    height: 500px;
+    height: 350px;
     margin: 0 auto;
     border: 5px solid #003049;
     display: flex;
@@ -18,10 +18,11 @@ body {
 }
 
 #container div {
-    width: 50px;
+    width: 100px;
     height: 100px;
     text-align: center;
     font-size: 4em;
+    padding: 15px;
     color: #fff;
 
 
